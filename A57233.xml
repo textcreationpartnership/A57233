@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The necessity of a well experienced souldiery, or, A Christian common wealth ought to be well instructed &amp; experienced in the military art delivered in a sermon, upon an artillery election June the 10th, 1675, by J.R.</title>
+            <author>J. R. (John Richardson), 1647-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57233</idno>
+            <idno type="STC">Wing R1388</idno>
+            <idno type="STC">ESTC W8948</idno>
+            <idno type="EEBO-CITATION">12652943</idno>
+            <idno type="OCLC">ocm 12652943</idno>
+            <idno type="VID">65311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1535:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The necessity of a well experienced souldiery, or, A Christian common wealth ought to be well instructed &amp; experienced in the military art delivered in a sermon, upon an artillery election June the 10th, 1675, by J.R.</title>
+                  <author>J. R. (John Richardson), 1647-1696.</author>
+               </titleStmt>
+               <extent>[2], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green,</publisher>
+                  <pubPlace>Cambridg[e] [Mass.] :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Massachusetts. --  Militia --  Sermons.</term>
+               <term>England and Wales. --  Army --  Colonial forces --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65311:1"/>
+            <pb facs="tcp:65311:1" rendition="simple:additions"/>
+            <p>THE NECESSITY OF A WELL EXPERIENCED SO<g ref="char:V">Ʋ</g>LDIERY, OR, A Chriſtian Common Wealth ought to be well Inſtructed &amp; Experienced in the Military Art.</p>
+            <p>Delivered in a Sermon, upon an ARTILLERY ELECTION <hi>June the 10<hi rend="sup">th:</hi> 1675.</hi>
+            </p>
+            <p>By J. R.</p>
+            <q>
+               <bibl>Pſal. 144.1.</bibl> 
+               <p>Bleſsed be the LORD my strength, which teacheth my hands to Warr, and my fingers to Fight.</p>
+            </q>
+            <q>
+               <bibl>Jer. 48.10.</bibl> 
+               <p>Curſed be he that doth the Work of the LORD deceitfully, and Curſed be he that keepeth back his Sword from Blood.</p>
+            </q>
+            <p>
+               <hi>CAMBRIDG</hi> Printed by <hi>Samuel Green</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65311:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:65311:2"/>
+            <head>
+               <q>
+                  <bibl>2 Sam. 1.18.</bibl> Alſo he bade them teach the Children of Judah the <g ref="char:V">Ʋ</g>ſe of the Bow.</q>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter a long <hi>Scene</hi> of Peace, Wars ever enter the Stage; Wars are in the ſame nature with Offences, <hi>neceſſe eſt vt veniant,</hi> they muſt be; though there be a <hi>vae inducenti,</hi> a woe to him that is the unjuſt cauſe of them:</p>
+            <p>Neither is there any particular place in the VVorld (though at preſent never ſo quiet and ſecure) that can plead any exemption from ſuch a Viſitation, till the Lord hath created his univerſall, everlaſting Peace in the world; till then the Church of God upon Earth is Militant, in a Civill as well as in a Spirituall ſenſe, VVhile Sin and the Sons of <hi>Anak</hi> are unſubdued, while the <hi>Philiſtims are in the Land,</hi> they'l be bid<g ref="char:EOLhyphen"/>ding Defiance to the <hi>Hoſt of the Living God,</hi> and <hi>Iſrael</hi> ſhall not be without her daily Annoying cares and feares. Thus while the Church hath her Enemies in the world, men ought to be in a readineſs, not only to Pray with their hearts and tongues, but to fight with their hands for the <hi>Peace of Ieruſalem.</hi>
+            </p>
+            <p>The likelieſt way to prevent an evill, is to be prepared for it, <hi>fore-warned, fore-armed,</hi> when the Army of the uncircumciſed are in the field, eſpecially when they grow skillfull <hi>to deſtroy,</hi> it is time for <hi>David</hi> to Command, to <hi>teach the Children of</hi> Judah <hi>the uſe of the Bow.</hi>
+            </p>
+            <p>A thorow diſpatch of theſe words will not allow the ex<g ref="char:EOLhyphen"/>pence of much time in ſpeaking to the <hi>Analyſts</hi> of the Chapter it ſelf; yet for our better underſtanding and profiting by this text, I ſhall briefly ſpeak a few words concerning the Context: to this end you may note, that this Chapter divides it ſelf into theſe two Principal parts, <hi>viz.</hi>
+            </p>
+            <pb n="2" facs="tcp:65311:3"/>
+            <p>Firſt. A <hi>Narration brought to David,</hi> Concerning the Death of <hi>Saul &amp; Ionathan,</hi> thoſe former Victorious Champions of <hi>Iſrael.</hi>
+            </p>
+            <p>Secondly. <hi>The Effects</hi> which this Sad Relation produced, which were theſe two, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>A mournfull Poem,</hi> or Song, or a Funeral <hi>Elogium</hi> upon the loſs of thoſe two Skilfull &amp; excellent Warriours, <hi>v</hi> 17. <hi>And David Lamented over Saul &amp;c.</hi> Davids afflictions produced us many a <hi>Song,</hi> and this is one among the reſt.</p>
+            <p n="2">2 <hi>A studious Care</hi> for their own Defence and ſafety, implyed in the words of the Text; <hi>He bad them teach &amp;c.</hi> Saul and Io<g ref="char:EOLhyphen"/>nathan's Death, Iſraels defeat, and the Philiſtims Victory, made David not only mournfull, but alſo carefull how to prevent the like diſaſter, when occaſion ſhould be for another on-ſet.</p>
+            <p>The words of the Text are contained in <hi>Davids Funeral ſong,</hi> and are inſerted (if you obſerve) in a <hi>Parentheſis,</hi> in which reſpect there is ſomthing worthy of notice:</p>
+            <p>In the former Verſe, <hi>David</hi> [you ſee] had juſt began to com<g ref="char:EOLhyphen"/>poſe his mournfull Song; The ſad and unexpected newes of <hi>Iſraels Overthrow,</hi> Saul, and Jonathans <hi>Death,</hi> thoſe <hi>expert</hi> and <hi>valiant Commanders,</hi> who [under God] had been <hi>Judah's ſafety</hi> and the <hi>Defence of the Country;</hi> the loſs of theſe made <hi>David</hi> break out into a deep Lamentation. <hi>And</hi> David <hi>Lamented &amp;c:</hi>
+            </p>
+            <p>Now leaſt <hi>Davids</hi> mourning ſhould make others either heart<g ref="char:EOLhyphen"/>leſs and fearfull, or give them any occaſion of ſuſpicion con<g ref="char:EOLhyphen"/>cerning his own Valour and Courage, <hi>I</hi> ſay, leaſt any ſhould draw up this diſheartning Concluſion. <hi>viz</hi> ſeing the <hi>Philiſtims</hi> have ſlain our Mighty and skilfull, and <hi>David</hi> himſelf hereupon becomes thus dejected and ſorrowfull, it will now be in vain for us to think of reſiſting or prepare for further engaging; wherefore to remove this damp of daunting fears, before he proceeds any further to Lament, he inſerts his ſolemn charge, that they ſhould learn experience how to Fight, cauſe of ſorrow ſhould be no cauſe of Cowardiſe, <hi>David</hi> had good Courage in his great grief, <hi>Alſo he bad them teach &amp;c:</hi>
+            </p>
+            <p>
+               <hi>Davids Apoſtrophe</hi> from Lamenting to bid them prepare for fighting, is an Argument both of his <hi>Prudence,</hi> and conſtant <hi>Care</hi> and <hi>Courage. And David Lamented &amp;c.</hi> But [leſt any here<g ref="char:EOLhyphen"/>by, ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld judge <hi>David</hi> become either <hi>Careleſs</hi> or <hi>Cowardly</hi>] be<g ref="char:EOLhyphen"/>fore
+<pb n="3" facs="tcp:65311:3"/>
+he goes on with his Lamentation, he makes this Pauſe in a Parentheſis. <hi>Alſo he bad them teach the Children of Judah the <g ref="char:V">Ʋ</g>ſe of the Bow.</hi> It was by this Inſtrument (we heard in the former Chapter) Saul was wounded, and ſo alſo <hi>Jonathan,</hi> and many others.</p>
+            <p>The Bow was a principall Inſtrument then uſed in their wars, by the more acu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, nimble and skilfull m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>naging whereof the Phi<g ref="char:EOLhyphen"/>liſtims [very likely] then gained their Victory over <hi>Iſrael;</hi>
+            </p>
+            <p>Wherefore <hi>David</hi> makes this good uſe of it, <hi>viz.</hi> That for the better dealing with the Enemy, it was very expedient to teach the Children of Judah the exact uſing and skilfull handling of that Weapon, <hi>q. d</hi> Our beſt Policy now is, (knowing where our Enemies skill and advantage lyes) to Labour to match, or rather excel them in their own Art, and ſo wee ſhall beat them with their own Weapons.</p>
+            <p>Skill is a great ſpur to Courage, and <hi>Warriours</hi> skilfull and Couragious, are moſt probable to be <hi>Victorious.</hi> A skilfull head or hand and a cowardly heart are moſt unequal Mates, pitty it is they ſhould ever meet in one perſon.</p>
+            <p>I ſhall ſpeak but a word or two more to the Text, and ſo pro<g ref="char:EOLhyphen"/>ceed to the Doctrine. <hi>He bad them Teach &amp;c:</hi>
+            </p>
+            <p>The <hi>Bow</hi> was a principal Inſtrument then uſed in <hi>War;</hi> and it is here <hi>figuratively</hi> to be taken for all kind of <hi>Martial Weapons:</hi> and ſo their learning the right and exact uſe of that, implyes their learning the skill in the whole Art.</p>
+            <p>Many Doctrines worthy our notice, and very pertinent to this Dayes deſign may be deduced from the Words, I ſhall brief<g ref="char:EOLhyphen"/>ly name them, and center upon one of them cheifly.</p>
+            <p>
+               <hi>He bade</hi> i. e. <hi>David</hi> bade, Whence Obſerve.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>I</label> Doctr. I. <hi>It is the great Duty and Prudence of thoſe in Supream Power and Authority, to Order that their People be Trained up and Experienced in the Military Art, or in the right and skilfull Managing of Martial Weapons.</hi>
+            </p>
+            <p>David bade &amp;c: VVe have here an Example of <hi>Davids</hi> Kingly Care and Prudence, who (from the overthrow of <hi>Saul</hi> &amp;c:) doth Command his Subjects (for the ſafety of themſelves and preventing the like defeat) to excerciſe themſelves to the skilfull managing of that weapon; now every good example is
+<pb n="4" facs="tcp:65311:4"/>
+binding. David as King ac<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing it his place or Duty to look after the Ordering of that Affaire, ſheweth it to be a Duty incumbent upon all Chriſtian Rulers in Place of like Authority or Power; and they that are Rulers over others, are chiefly ac<g ref="char:EOLhyphen"/>countable for any neglect in this great Duty.</p>
+            <p>
+               <hi>He bade THEM,</hi> i. e. his Chieftains, Lieutenants, or other under Officers that were experienced profeſſors of that Art, and ſo able to teach, Whence Obſerve.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>II</label> Doct. 2. <hi>It is very neceſſary in all Military Exerciſes, and for the makeing a true Proficiency therin, that there ſhould be ſuch experienced perſons that may be able, skilfully &amp; expertly to Train up others in the expert knowledg of that Art.</hi> If there be none to teach, how can any be taught: that Body is a meer <hi>Chaos</hi> where all is alike. But again, <hi>He bade them Teach the Chil<g ref="char:EOLhyphen"/>dren of Iudab,</hi> VVhence Obſerve.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>III</label> Doct. 3. <hi>Martial Weapons and Military skill and Exerciſe do well become and truely belong to a Chriſtian Common Wealth.</hi> Contrary to the Tenent of that abominable Sect, who would perſwade us to a Stoical <hi>Apathy</hi> or <hi>stupidity,</hi> &amp; never to uſe any means of defence againſt wrong or injury: ſuch Armour they al<g ref="char:EOLhyphen"/>ledge is unbecoming a Chriſtians Coat; And therefore their onely word of Command is, <hi>Lay down your Armes,</hi> that ſo they might have the advantage to take them up. But again, <hi>The <g ref="char:V">Ʋ</g>ſe or skill of the BOW.</hi> Whence Obſerve.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>IIII</label> Doctr. 4. <hi>The Art or skill of a right and Exact <g ref="char:V">Ʋ</g>ſing</hi> or <hi>handling of Martial Weapons, is that which a Chriſtian People ought to be carefully and diligently Inſtructed in.</hi> A Chriſtian people ought to be <hi>Conſcientiouſly Trained up and experienced in Military skill.</hi> There is a Civil as well as Spiritual <hi>Warfare</hi> that a Chriſtian muſt be exerciſed in. This is the <hi>Point</hi> which I intend to handle, and that which I judge may be moſt uſefull at this time. In the handling of which, I ſhall only concern my ſelfe with theſe two things, <hi>viz.</hi> to <hi>Confirme</hi> and <hi>Apply;</hi> As for <hi>Explication,</hi> I know not almoſt what ſhould be ſaid, I ſay that <hi>Martal skill</hi> is that which a people <hi>ought to be taught and experienced in.</hi> Now as to the number or quality of perſons that ought to be Inſtructed in this <hi>Science,</hi> is none of my buſineſs to diſcourſe, but theirs whoſe duty it is to Inſpect the Ordering
+<pb n="5" facs="tcp:65311:4"/>
+of that Affair; Neither ſhall I now ſpend any diſcourſe <hi>de Jure Belli,</hi> concerning the right or Lawfulneſs of Warr, the proof of the Doctrine will of neceſſity inferr the Truth of that: I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it appear that <hi>Military skill</hi> is that which ought to be taught, it will certainly follow that it is that which may (when occaſion calls) be lawfully practiſed, ſince this is the very end of that: that <hi>Art</hi> or <hi>ſcience</hi> is altogether vain which may not admit of a practicall part. Neither again can it be expected that I ſhould explain the Nature of Military <hi>skill</hi> and the manner how men ſhould be <hi>diſciplined in that ſcience,</hi> that is a work neither with<g ref="char:EOLhyphen"/>in my <hi>ſphear</hi> nor belonging to my place: But is the bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſines proper to the field, not the <hi>Pulpit:</hi> and the explanation of it to be learned of thoſe who have arrived <hi>Artiſts</hi> in that <hi>Profieſſion,</hi> and are deſigned to inſtruct the unexperiencd therin. It is none of my buſyneſs to teach that <hi>Art,</hi> but to ſhew that it is a peoples Duty to be carefully and diligently Inſtructed in it, I now preach matter of Duty, which ought to be practiſed, eſpecially more diligently and conſcientiouſly then it is or hath been. That it is an Art or skill which is not Natural, but acquired with much Inſtruction, Induſtry, Practiſe, that men do not naturally or very eaſily come to be Artiſts in that profeſſion, I ſuppoſe, will be readily granted by all that have any experience therein;</p>
+            <p>Beſides the teaching and learning of it which the Scripture in many places doth attribute to it, doth imploy that there is an art, skill or ſlight in it, which doth require ſtudy, diſcipline and inſtruction, for the attaining to it.</p>
+            <p>But, that the Truth of the <hi>Point</hi> may appear, we may Firſt, <hi>Look into the Scripture it ſelfe,</hi> and ſee what that may afford in order to the confirming of it. And this we ſhall find not at all to be ſcant but rather to abound with ſuch examples and preſi<g ref="char:EOLhyphen"/>dents as do fitly teſtifie to the truth of this <hi>Aſſertion;</hi> though that in the Text being it ſelfe of <hi>Divine Authority,</hi> may be ſuf<g ref="char:EOLhyphen"/>ficient to confirm the duty alledged.</p>
+            <p>That it was the practiſe (Commended and allowed by God) of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people of God in former ages, the ſcripture doth plentiful<g ref="char:EOLhyphen"/>ly hold <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; Now ſeeing what is written is written for our in<g ref="char:EOLhyphen"/>ſtruction, it is our duty to follow <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſe patterns till God ſhall be pleaſed wholly to remove all occaſion for the like practiſe.</p>
+            <p>
+               <pb n="6" facs="tcp:65311:5"/>I know before I proceed, that all that can be Objected by any is, the <hi>Promiſe of peace</hi> in the <hi>Goſpel times,</hi> that <hi>Jeruſalem</hi> ſhall be <hi>a quiet Habitation,</hi> and that the <hi>Nations ſhall learn Warr no more &amp;c:</hi> But how ever (as one anſwers well) we muſt not Anti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate Gods work, all Goſpel Promiſes are not yet fulfilled; That time ſhall come, but in the mean time [ſo long as ther's Warr and rumours of Warr in the World] we muſt ſtand upon our <hi>Watch</hi> &amp; <hi>Ward,</hi> alwaies in a Poſture or defence for the peace of Zion. While that ſpirit in man that <hi>Luſteth to envy,</hi> to <hi>fewds and Quarrels,</hi> eſpecially with that and thoſe that are good, be more then it is at preſent Curb'd and ſuppreſſed, it is both duty and prudence to arm our ſelves againſt the cruel invaſions that may we know not how ſoon from thence ariſe.</p>
+            <p>I will never believe that our Priviledges under the Goſpel are now more narrow then theirs were under the Law: If that were a duty and priviledg then for the people of God to prepare for Warr, and to fight for their Lives and Libertys, I cannot believe but that we eſpecially under the Goſpel ought rather to be duely prepared againſt thoſe bloody attempts. I cannot believe that the people of God are bound to ſit with their hands in their pock<g ref="char:EOLhyphen"/>ets &amp; give themſelves up as a prey to their Enemies, &amp; Coward<g ref="char:EOLhyphen"/>ly to part with thoſe Priviledges which Chriſt hath ſo dearly pur<g ref="char:EOLhyphen"/>chaſed. The Law of Nature, which is Gods Law too, doth ever bind us, ſo far as we can in a juſt way, to prevent any evill unjuſtly offered.</p>
+            <p>In the Latter dayes, we are told there will be bloody times, <hi>Nation ſhall riſe up againſt Nation &amp;c:</hi> from hence it will follow that we under the Goſpel ought to be more expert and fitted for Battel, then thoſe in former ages; For God you know then did immediatly and miraculouſly fight for his people, often times giv<g ref="char:EOLhyphen"/>ing them very great <hi>Victorys,</hi> by very mean unlikely meanes.</p>
+            <p>But we in theſe dayes have no promiſe of ſuch a miraculous &amp; immediate aſſiſtance; God works now by men and meanes, not by miracles: Neither can we expect that the walls of <hi>Rome</hi> as the walls of <hi>Jericho</hi> ſhall fall with the ſound of a <hi>Rams-horn:</hi>
+            </p>
+            <p>The Man of ſin (no doubt) when his time is come, ſhall be overcome with the ſword of men as well as the ſword of the ſpirit To her that hath <hi>ſhed the blood of the ſaints,</hi> ſhall blood <hi>be given to
+<pb n="7" facs="tcp:65311:5"/>
+drink,</hi> now God alone knowes whoſe Lot it will be to be called to that work, but yet he expects that his people be fitted for ſuch a deſigne, when he ſhall be pleaſed to call them to it. God hath his work for his <hi>Militia</hi> on Earth as well as for that in Heaven. Warr is an Ordinance appoynted by God for ſub<g ref="char:EOLhyphen"/>duing and deſtroying the Churches Enemies here upon Earth.</p>
+            <p>But this diſcourſe is almoſt a Digreſſion. I ſay, as yet we have no aſſurance of freedome from War, and therefore ſtill to be prepared for it; Times are now moſt dangerous, But to return from whence I have thus digreſsed.</p>
+            <p>
+               <hi>Abraham</hi> we read was the moſt <hi>renowned</hi> for <hi>Faith,</hi> and if that alone without the uſe of meanes would have done it, Could have believed his Enemies into the duſt; Beſides we read that he is called the <hi>Friend of God,</hi> and ſo had the better grounds to expect to live in Peace, and yet we find, he thought it both Reaſon and Prudence to be prepared for War; Thus the Scrip<g ref="char:EOLhyphen"/>ture tells us that he kept his man both Armed &amp; Trained, he pro<g ref="char:EOLhyphen"/>vided them not only <hi>Weapons of War,</hi> but alſo taught them the <hi>Art and skill to uſe them;</hi> as appeares ſoon after, by the great exe<g ref="char:EOLhyphen"/>cution he did, and good ſucceſs that he had thereby. <hi>Gen. 14.14.</hi>
+            </p>
+            <p>Againe, the great Commendation that the Scripture gives of the <hi>Benjamites</hi> skill in ſlinging Stones at an haires breadth, ſheweth that it is a thing very likeing to God, and that which he requires as a Duty in his people, to be very exact &amp; expert in the right uſing of Warlike Weapons; The Sling was an Inſtrument of War, much uſed in the times of Old, and the <hi>Benjamites</hi> we read, were the moſt renowned for their exact skill in handling the ſame; They could <hi>ſling to an haires breadth:</hi> This plainly ſhewes that it is the duty of Souldiers now to learn to be wonder<g ref="char:EOLhyphen"/>full expert, Benjamite like in the uſe of their Martial Weapons and Military Exerciſe.</p>
+            <p>Againe, what other uſe do you think can we make of all thoſe places in Scripture, which do ſo often mention the skill and Va<g ref="char:EOLhyphen"/>lour of all thoſe Worthies of Old, why are they ſo Renowned in Holy Record, and ſo much commended for their Martiall skill, endowments and exploits, as you may find in that [and many o<g ref="char:EOLhyphen"/>ther places] <hi>1 Chron: 5.18.</hi> and <hi>Chap-12.8, 33. verſes.</hi> Yea how many <hi>Pages in Sacred Writt</hi> are wholly taken up in menti<g ref="char:EOLhyphen"/>oning
+<pb n="8" facs="tcp:65311:6"/>
+of thoſe who have been renowned for the <hi>Art of Souldiery;</hi> now to what purpoſe ſhould all this be, but cheifly to inſtruct us in theſe two things, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That it is an Art Commended and allowed by God.</p>
+            <p n="2">2. That by theſe Patterns we ſhould learn to practiſe, that as it is ſaid, they were <hi>expert in War</hi> and <hi>handling their Weapons;</hi> So it is the Duty of a people now to be. And this ſtill confirmes the truth of the Doctrine, <hi>viz.</hi> That therefore a people ought to be inſtructed and trained up to the knowledge of it.</p>
+            <p>Certainly it requires good teaching and diligent learning to ſling a ſtone at an haires breadth, <hi>i. e.</hi> to be an exact and expert Souldier, to be acute in that Calling.</p>
+            <p>Again conſider, what a Bleſſing <hi>David</hi> counted to be well experienced in that Art, 144 <hi>Pſal.</hi> 1. and think you then, ſo long as there may be uſe for it, that it is not the duty of a people to be bleſſed with the knowledge of it.</p>
+            <p>Again Laſtly as to <hi>Scriptural proof,</hi> The Souldiers that we read of in the Goſpel time were not disbanded or diſcharged, but indeed allowed and encouraged, as thoſe that came to <hi>John the Baptiſt,</hi> we find not one word of Reproof as to their Calling, but only good counſell how to behave themſelves in it, <hi>Luke</hi> 3.14. <hi>q. d.</hi> go on ſtill, but do not ſo and ſo, <hi>be content with your wages,</hi> which implyes indeed be content to be Souldiers.</p>
+            <p>So the <hi>Centurion</hi> that came to Chriſt, was a good Chriſtian &amp; an excellent Believer although a <hi>Captain</hi> in that profeſſion, <hi>Mat.</hi> 8.8, 9. Surely Chriſt that commended him ſo much for his faith would have reproved him for his Office, had it not been that which was in it ſelf commendable and requiſite. But then for our further ſatisfaction, I ſhall now give you the <hi>Reaſons</hi> of the Doctrine, why it ought to be ſo.</p>
+            <div type="part">
+               <head>Reaſons.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> Firſt, <hi>Becauſe this Military way is the way which</hi> God <hi>doth ap<g ref="char:EOLhyphen"/>point, and the uſuall meanes whereby he defends and workes delive<g ref="char:EOLhyphen"/>rance for his people;</hi> He forbids indeed ye ſhould truſt in, yet looks that we ſhould make uſe of an Arm of fleſh. Look through the Scripture, and ye ſhall find that the general and uſual way of Gods delivering his people from or defending them againſt their enemies, hath been by this meanes, <hi>viz.</hi> by the uſe and help of
+<pb n="9" facs="tcp:65311:6"/>
+Arms; Some here and there, one particular inſtance of Gods miraculous way of defending or delivering his people, doth not at all invalidate the force of this Reaſon, nor excuſe us from the duty propounded; Gods ſometime ſending an Angel to fight for his people and deſtroy their enemies army, as it was not to them ſo neither is it now any warrant to us from being prepared to de<g ref="char:EOLhyphen"/>fend our ſelves; we have no promiſe to aſſure our ſelves of any ſuch miraculous way of deliverance or defence: Now ſeing this is Gods way, and he being a Wiſe God and a God of Order, he will therefore have things to be done in the moſt orderly and artificiall way or manner. War is his Ordinance, and he hath ordered a certain Art or skill in warring, and hence Commands that his people be trained up or exerciſed to the knowledg of it; Gods work muſt be done wiſely, artificially and in the beſt man<g ref="char:EOLhyphen"/>ner, ſo as may be ſuitable to the glory of his own Nature; to be able to war or fight according to Art, gives much glory to him, who is the Author of every commendable <hi>Art or Science.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>II</label> Reaſ. Second. <hi>From the great dependance that the ſafety and preſervation of mens lives and libertyes hath therupon, and upon their ſo being,</hi> viz. <hi>Experienced Souldiers.</hi> I told you before, it was Gods uſual way of defending us to make us Inſtrumentall to defend our ſelves; Now when I ſpeak of Dependance, I ſpeak in ſubordination to him who is Independant. The Art <hi>Military</hi> [ſaith one of your own Inſtructors] being the higheſt profeſ<g ref="char:EOLhyphen"/>ſion as to the preſervation of our Countrys <hi>[non nobis nati Sumus]</hi> wherin our Lives, Libetries and Eſtates are included,<note place="margin">Barrif</note> we ought to be more ſtudious thereof, and exerciſed therin, but eſpecially Chriſtians who are betruſted with the Oracles of God, and the pleaſant things of his houſe, ought conſcientiouſly and carefully to furniſh themſelves with skill and ability to defend and main<g ref="char:EOLhyphen"/>tain thoſe precious things that are of more worth than the whole world; Yea this is one great part or duty of our Chriſtian war<g ref="char:EOLhyphen"/>fare to be skilfull to defend and preſerve the true Religion; I ſay that God hath Ordered a kind of Dependance as aforeſaid, yea was it not in a Military or Martial way that the Saints in former ages did preſerve and defend themſelves, theirs and their Reli<g ref="char:EOLhyphen"/>gion, againſt thoſe that would have rob'd them of all; yea were not others alſo by them turn'd out of houſe and home, and that
+<pb n="10" facs="tcp:65311:7"/>
+becauſe of their great Security and willfull ignorance in the <hi>Military Science, Judges</hi> 18.7, 8, 9, 10.</p>
+               <p>Do you not count your Lives &amp;c: worth defending or pre<g ref="char:EOLhyphen"/>ſerving, and is it not rational than to endeavour the moſt artifi<g ref="char:EOLhyphen"/>cial and ſafeſt way of accompliſhing it? One, and a great Senſe wherin God is your <hi>Walls and Bulwarks,</hi> is when he makes you ſo unto your ſelves, <hi>viz.</hi> experienced Souldiers, expert to defend your ſelves: I ſay, a Countries ſafety depends much upon an ex<g ref="char:EOLhyphen"/>perienced Militia; yea is it not therefore reckoned as the curſe, confuſion and undoing of a place, when their Mighty and skilfull men of War are taken away? <hi>Iſai 3.1, 2.</hi>
+               </p>
+               <p>Reaſ. Third. <hi>Becauſe Skill is one of the greateſt helps to Vict<g ref="char:EOLhyphen"/>ory,</hi> eſpecially, <hi>where other accompliſhments do alſo meet;</hi> Victory is the Mark that skill aims at; <hi>Skill of hand, Strength of body, &amp; Courage of mind</hi> do make a compleat Champion, and ſeldome it is that ever they do miſs of Victory; yea good skill is more needfull than great ſtrength: Skill many times overcomes ſtrength; A skilfull though a weak Arm, hath many times given a Fatall blow to an unskilfull though a ſtrong man. <hi>Davids skil<g ref="char:EOLhyphen"/>full hand fetcht great</hi> Goliah <hi>to the ground,</hi> he fights blindfold, or like a mad man, that fights not according to Rule.</p>
+               <p>Reaſ. Four. <hi>Becauſe Security, Ignorance and want of experi<g ref="char:EOLhyphen"/>ence in the Military Art, is the way not only to invite an Enemy to in<g ref="char:EOLhyphen"/>vade a people, but alſo renders them very lyable to become a Prey when they ſhall ſo do;</hi> See that Inſtance, <hi>Iudg. 18.7, 8, 9, 10.</hi> This tempts God to leave you, and let the Enemy take you, wher<g ref="char:EOLhyphen"/>as he report of a warlike people and their fame for Martial skill many times ſtrikes fear into an Enemy, and ſo is one meanes to prevent War. Invaſions are judged far more dangerous than pitcht Battels; becauſe they are ſuddain, and uſually take men unprovided, the unskilfull man is an unprovided man: times of of Peace are times to prepare for War.</p>
+            </div>
+            <div type="part">
+               <head>APPLICATION</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> Uſe I. <hi>Hence Learn, that the Commanders and Officers in a Militia, who stand for Examples and Teachers to others ought in a special manner to be well qualified and accompliſhed for thoſe places.</hi> Leaders ſhould ſtrive to be excelling perſons; If they are to teach others to be Souldiers, then certainly themſelves
+<pb n="11" facs="tcp:65311:7"/>
+ſhould be Artiſts <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; A certaine Authour in his <hi>miſcellaneous diſcourſes</hi> occaſionally ſpeakes how Martial Leaders ſhould be qualified, ſaith he, the Commanders in War and [as neer as can be Commanders in Trayning Companyes) ought to be built upon theſe three Virtues.</p>
+               <p>They ſhould be <hi>Wiſe, Valiant, Experienced.</hi>
+               </p>
+               <p>Wiſdome in a General oftentimes Ends the War without War; of all the Victories the <hi>Romans,</hi> thought the beſt, which was leaſt Stained with Blood, and they were content to let <hi>Camillut</hi> Triumph although he had not fought. In theſe times it is eſpecially requiſite ſince <hi>Stratagems and advantages</hi> are more in uſe then open and daring Valour: Yet,</p>
+               <p>
+                  <hi>Valiant</hi> he muſt be, elſe he growes Contemptible, looſeth his Command, and by his own Fear infects his Troops with Co<g ref="char:EOLhyphen"/>wardiſe. To the eternal Honour of <hi>Caeſar, Cicero</hi> reports that in all his Commands of the field, there was not found an <hi>Ito,</hi> but a <hi>Veni,</hi> as if he had ſcorned in all his Onſets to be any thing but ſtill a Leader, alwayes teaching by the ſtrongeſt Authority his own Forwardneſs, his own Example: And though theſe be Ex<g ref="char:EOLhyphen"/>cellencyes, they be all Lame without</p>
+               <p>
+                  <hi>Experience;</hi> Let him be never ſo Learned in a Paper plot where his eye hath all in View, he'l fall in a <hi>Leager</hi> where he ſeeth but a Limb at once: Beſides, <hi>Experience</hi> puts a <hi>Credit</hi> upon his Actions, and makes him far more Prompt in undertakings.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>2</label> Uſe II. <hi>Then this ſhould teach thoſe that are or may be Teach<g ref="char:EOLhyphen"/>ers, Leaders and Commanders of others (as much as in them lies) to be Carefull, Diligent and Conſcientious in the performance of their Duty towards them that are to be Inſtructed by them:</hi> Believe it, the work is the Lords, it is his Ordinance, and you have a great account to give, or you are greatly accountable according to your well or ill management therof; The Lord is your Super<g ref="char:EOLhyphen"/>viſour, You that are in the Front, have not only mens but Gods eye upon you; and if there be as hath been proved ſo great a Dependance upon a well Ordered &amp; Inſtructed Militia, conſider that you will have but a bad &amp; ſore account to give for your neg<g ref="char:EOLhyphen"/>lect &amp; rem<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſneſs in the diſcharge of your Duty: What Diſaſter and Calamity may come upon a Common wealth through your defect will cheifly center upon you in the End, &amp; you are lyable
+<pb n="12" facs="tcp:65311:8"/>
+to a greater ſhare in the Curſe then other Inferiour Souldiers.</p>
+               <p>It behoves you in ſome ſenſe more than others, ever to remem<g ref="char:EOLhyphen"/>ber and keep in mind that dreadfull ſentence againſt Deceitfull dealers in Gods ſervice, <hi>Jer.</hi> 48.10. God who is a man of War hath a <hi>Curious and a skilfull</hi> eye. Labour then as alwayes in his preſence to do your Dutyes carefully and skilfully.</p>
+               <p>The Dutyes of your places, I hope you know, (or I wiſh you did) better than I can tell you:</p>
+               <p>Labour (as indeed your places require) to be <hi>Grave, Serious</hi> ſetting good and edifying examples; eſpecially keeping a good Command over thoſe that are to be Commanded by you; and when you are upon the Exerciſe and Inſtructing them, be con<g ref="char:EOLhyphen"/>ſcientious in ſpending thoſe times and ſeaſons to their beſt advan<g ref="char:EOLhyphen"/>tage and edification in that Science: Quicken ſuch as you obſerve backward, lazy and idle, let them be aſhamed out of their Duncery, or be ſeverely puniſhed for it; Of all men you that are Officers and Commanders, FOREMEN, do you ſee to it, that you be alwayes Foreward and never backward in this great and ſolemn work.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>3</label> Uſe III. <hi>Another word may be of Exhortation, and that unto</hi> all that are Liſted under Diſcipline and Command. <hi>Be Exhorted</hi> (in Obedience to God &amp; ſafety to your ſelves) to put this Doc<g ref="char:EOLhyphen"/>trine into practiſe, <hi>viz. Labour now with all Diligence (while you have the time &amp; meanes for Instruction) to approve your ſelves skilfull and Expert Souldieres.</hi> It is the Duty of others to teach and it is as much your Duty to learn, therefore make progreſs:</p>
+               <p>Dread to be among the number of thoſe that are ever learning and never come to the knowledg of this Truth; Loath to be low in the knowledg of that which is thy Profeſſion. Oh! Preſs for<g ref="char:EOLhyphen"/>ward, ſtrive to become Expert, Renowned.</p>
+            </div>
+            <div type="part">
+               <head>DIRECTIONS.</head>
+               <p n="1">1. <hi>Be Conſicentious and Diligent in the ſpending theſe times and ſeaſons that now preſent, for the getting more and more</hi> Art and skill Spend them I ſay, to that very end. Look at this as thy Duty, and do it withall thy Might; Spend it not in a meer ſhew of thy glittering Armour, neat or gaudy dreſs: Spend it not (as too often it is ſpent) in <hi>Licentiouſneſs, Revelling, Rioting Ranting,</hi> but in the Solemn buſſineſs of the day, be all in theſe
+<pb n="13" facs="tcp:65311:8"/>
+things: Thou that goeſt under the Name of a Souldier, be not (as one Cautions thee well) ſo much a Boy, as to turn Training dayes into playing dayes.</p>
+               <p n="2">2. <hi>Hearken Diligently to and then keep in mind the Inſtructi<g ref="char:EOLhyphen"/>ons of thoſe that are thy Teachers and Commanders;</hi> Learn ſo as to be able to do: Conſider the Way and Method and Reaſon of things, that ſo thou mayeſt be a Souldier not only by Rote, but according to Art.</p>
+               <p n="3">3. <hi>Be much and as often as yon can upon theſe Exerciſes;</hi> Uſe makes perfectneſs or Expertneſs: Thou canſt not be too exact in this Art, make David thy Pattern, never leave till thou haſt it <hi>adunguem</hi> at thy fingers ends, as we may inferr from thoſe words of his, <hi>Pſal.</hi> 144 1. So, Benjamite like, endeavour to be exact and expert to an haires breadth: You that are of this Company of the Artilery, are indeed Volunteers, which in<g ref="char:EOLhyphen"/>timates your great deſire to become expert in this Art, in that you have been ſo forward as Voluntarily to Liſt your ſelves into a Mi<g ref="char:EOLhyphen"/>litary Body; So that more may juſtly be expected from you than from others, who ſpend not ſo much time in theſe Exerciſes: therefore be Conſtant and Diligent in this great and weighty work.</p>
+               <p n="4">4. <hi>Be Orderly and Obedient, willing to be Commanded:</hi> Souldiers of all men in the world ſhould be willing to Obey: Though every one ſhould labour for ſuch Experience as to be able to Command. A Souldier is under abſolute Command; He muſt not diſpute the Orders of his General, but Obey them: therefore Souldiery is well defined, the Obedience of a <hi>Stout &amp; Valiant mind, out of his own diſpoſe;</hi> he muſt move upon direction having a Charge or Word from his Commander for every ſtep he treads or action he undertakes, <hi>Mat.</hi> 8.9. There is ſo much keeping of Order in War or Battels, that a Souldier Command<g ref="char:EOLhyphen"/>ed to ſtand ſuch a ground, muſt not ſtir though he dy for it, and if he ſtirrs by Martiall Law he ſhall dy. Confuſion may ſoon bring deſtruction upon an Army. Order is the Soul of Common Wealths and Societyes, it matters not who goes firſt, ſtrive ra<g ref="char:EOLhyphen"/>ther who ſhall March beſt: he can never well Lead, that knowes not well to Follow. Experienced Generals hold this <hi>Military Maxim,</hi> that 'tis as honourable in Wars, exactly to Obey, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> exactly to Command.</p>
+               <p>
+                  <pb n="14" facs="tcp:65311:9"/>Laſt Direct. <hi>Strive every one to Excell the other, and this I am certain is a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ikely way to make ſome expert indeed:</hi> That's a dull ſtupid, or a ſlothfull Spirit that hath nothing of Emulation in it: you may lawfully ſtrive who ſhall be beſt in that which is good.</p>
+            </div>
+            <div type="part">
+               <head>Motives, ſome to Draw &amp; others to Drive.</head>
+               <p n="1">1. <hi>Conſider that it is thy Duty to be thus skilfull and Ex<g ref="char:EOLhyphen"/>pert:</hi> For it is thy Calling, is it not thy Duty to be Expert in thy Callng? what ſhou deſt thou be ſo much knowing in as in that which is thine own buſineſs.</p>
+               <p n="2">2. <hi>Conſider that thou art not only Lyable to, but under a Curſe for thy neglect, careleſneſs or wilfull ignorance in this work,</hi> for this work is the Lords; and ſee what the Lord ſaith of ſuch as are negligent in it, <hi>Jer.</hi> 48.10. What a ſhame is it, yea what a plague is it for a man to be a Bungler at his own Calling?</p>
+               <p n="3">3. <hi>Conſider,</hi> [as was ſaid before] that there is a great and ſolemn dependance upon an Experienced Militia, as to the ſafety and preſervation of our Lives, Libertyes &amp;c: And if all ſhould be as Careleſs, Ignorant and unexpert for defence as thou art, all ſhould quickly become a Prey to the Enemy.</p>
+               <p n="4">4. <hi>Conſider,</hi> the Enemy growes skilfull to deſtroy, there<g ref="char:EOLhyphen"/>fore thou ſhouldeſt grow skilfull to defend, upon this account it was that David in the Text <hi>Commands them to Teach &amp;c.</hi>
+               </p>
+               <p n="5">5. <hi>Conſider</hi> That through thy un-expertneſs and wilfull ignorance in this Art, thou mayeſt be guilty of thine owne blood, and it may be of the lives of many others; Thou art a meer deceit and cheat to the Country or Body wherin thou art.</p>
+               <p n="6">6. <hi>Conſider,</hi> that though your preſent Exerciſe be a mat<g ref="char:EOLhyphen"/>ter of Delight and Sport in a ſenſe, yet it tends to a ſolemn Exceution; i. e. you may be called to be in good earneſt; thou knoweſt not how ſoon Orders may come from the Lord of Hoſts for thy ſuddain March, and then there will be no
+<pb n="15" facs="tcp:65311:9"/>
+time to get any skill to defend thy ſelf; You are now as it were in <hi>Gariſon,</hi> but you may very quickly bee in the Field, not in a naked field, but in a field of Warr, yea perhaps in <hi>Acheldama,</hi> a field of Blood, where thou ſhalt not want for an Enemy, but find one, not one it may be, but many.</p>
+               <p n="7">7. <hi>You are most likely,</hi> having followed Gods Order to have his Preſence with you and Protection over you, he de<g ref="char:EOLhyphen"/>lights in thoſe that are like himſelf; He is the Lord of Hoſts, the Man of Warr, And this is one part of his <hi>Image, viz.</hi> Wiſdom and Experience in theſe Affaires: Study than to Quit your ſelves like Men, and to become the Bulwarks of the places where you Live, that ſo we may be able to ſay truely of you, what <hi>Tertullus</hi> ſaid flatteringly concerning <hi>Foelix</hi> the Governour of <hi>Judaea, By You we enjoy great Quietneſs, which we cannot but Accept alwayes in all places with much Thankfulneſs.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
